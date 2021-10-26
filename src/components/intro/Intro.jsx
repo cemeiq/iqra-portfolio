@@ -88,7 +88,7 @@ function Intro() {
            </div    >
            <div className="i-right">
                 <div className="i-bg"></div>
-                <img  alt="" className="i-img" />
+                <img src="https://www.seekpng.com/png/detail/57-576692_wattpad-random-a-bunch-of-pngs-for-people.png" alt="" className="i-img" />
            </div>
         </div>
     )
