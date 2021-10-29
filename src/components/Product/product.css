@@ -1,0 +1,10 @@
+.product{
+margin: 20px 10px;
+width: 20%;
+border:2px solid grey;
+display: flex;
+align-items: center;
+border-radius: 10px 10px 0px 0px;
+overflow: hidden;
+
+}
